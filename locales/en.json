@@ -1,0 +1,15 @@
+{
+	"successfullyRegister": "Your account regsitered successfully",
+	"requiredField": "field required",
+	"fullName requiredField": "fullName required Field!",
+	"validField": "Please enter valid ",
+	"passwordMustBe6Digitis": "Please enter password greater then 6 digits!",
+	"validField Email": "validField Email",
+	"userAlreadyEmailExits":"User Already Exits!",
+	"emailRequired":"Email Required!",
+	"userNotExits":"User Not Exits!",
+	"tokenRequired":"Token Required!",
+	"unAuthorizedAccess":"User not Authorize!",
+	"preferences":"Preferences required",
+	"successFullyUpdated":"Preferences successfully updated"
+}
